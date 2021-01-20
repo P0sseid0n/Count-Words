@@ -1,14 +1,15 @@
-# contacaracteres
+# N Words count
+Count the words and letters of your text.
 
-## Project setup
-```
-npm install
-```
+![NWords](./Nwords.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to run the project
+
+1. Clone this repo
+2. ``` cd n-words ```
+3. ``` npm install ```
+4. ``` npm run serve ```
+
 
 ### Compiles and minifies for production
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
