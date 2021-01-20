@@ -4,7 +4,7 @@ Count the words and letters of your text.
 ![NWords](./Nwords.gif)
 
 
-#### DEMO
+## DEMO
 
 ` https://n-words.netlify.app/ `
 
