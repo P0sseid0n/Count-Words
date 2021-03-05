@@ -1,4 +1,4 @@
-# N Words count
+# Count words
 Count the words and letters of your text.
 
 ![NWords](./Nwords.gif)
