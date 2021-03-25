@@ -1,7 +1,7 @@
 # Count words
 Count the words and letters of your text.
 
-![NWords](./Nwords.gif)
+![Count-Words](./Count-words.gif)
 
 
 ## DEMO
